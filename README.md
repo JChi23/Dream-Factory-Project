@@ -5,6 +5,8 @@ If you shrink the width of your window, then the top bar will adjust so that you
 
 We routed the site pages in app.module.ts
 
+For the donate button, we are planning on having it link to a specific square page for payment, but as of right now, we have the placeholder set to the default square site to indicate where it will lead.
+
 Pictures and text used on this website were taken from the Dream Factory St. Louis chapter and the overall Dream Factory website (dreamfactoryinc.org)
 
 
